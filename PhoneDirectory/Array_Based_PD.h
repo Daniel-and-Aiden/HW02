@@ -56,6 +56,7 @@ private:
 	class Directory_Entry
 	{
 	public:
+		//Aiden McIlrith filled in the methods on 9/16/18
 		Directory_Entry() {} // Default no-argument constructor
 		Directory_Entry(std::string the_name, std::string the_number) {
 			// constructor not implemented yet
